@@ -1,4 +1,6 @@
 English to French Translator using Huggingface's Helsinki-NLP Model
+
+
 Project Overview
 This project demonstrates how to use a pre-trained machine learning model from Huggingface to translate English sentences into French. The model used is Helsinki-NLP/opus-mt-en-frm, a neural machine translation model designed specifically for English to French translation. It leverages Huggingface's open-source ecosystem, which allows developers and researchers to use and contribute models for tasks such as natural language processing (NLP), image generation, and more.
 
